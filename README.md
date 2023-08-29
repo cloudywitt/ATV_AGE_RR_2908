@@ -4,10 +4,10 @@ Integrantes do grupo: Ângelo Garcia, Eduardo Coutinho, Guilherme Almeida
 
 * Questões feitas
 - [ ] Questão 1 (0/1)
-- [ ] Questão 2 (0/6)
+- [ ] Questão 2 (2/6)
    - [ ] a)
    - [x] b)
    - [ ] c)
-   - [ ] d)
+   - [x] d)
    - [ ] e)
    - [ ] f)
