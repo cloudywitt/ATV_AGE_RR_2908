@@ -5,9 +5,9 @@ Integrantes do grupo: Ângelo Garcia, Eduardo Coutinho, Guilherme Almeida
 * Questões feitas
 - [ ] Questão 1 (0/1)
 - [ ] Questão 2 (2/6)
-   - [ ] a)
+   - [x] a)
    - [x] b)
    - [ ] c)
    - [x] d)
-   - [ ] e)
+   - [x] e)
    - [ ] f)
