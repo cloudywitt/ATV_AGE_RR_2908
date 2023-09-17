@@ -7,7 +7,7 @@ Integrantes do grupo: Ângelo Garcia, Eduardo Coutinho, Guilherme Almeida
 - [ ] Questão 2 (2/6)
    - [x] a)
    - [x] b)
-   - [ ] c)
+   - [x] c)
    - [x] d)
    - [x] e)
    - [ ] f)
